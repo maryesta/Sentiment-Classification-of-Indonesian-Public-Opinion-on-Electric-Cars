@@ -1,1 +1,4 @@
 # Sentiment-Classification-of-Indonesian-Public-Opinion-on-Electric-Cars
+Finalist in Data Competition ISFEST 2024 by Universitas Multimedia Nusantara
+- This project, part of the Final Data Competition ISFEST 2024 by UMN, aimed to classify public sentiment toward electric cars in Indonesia using machine learning. The dataset, consisting of social media comments, was preprocessed through text cleaning, lemmatization, stopword removal, and TF-IDF vectorization. Ten classification models were evaluated. To address class imbalance, SMOTE (Synthetic Minority Over-sampling Technique) was applied, and hyperparameter tuning was performed using GridSearchCV. The SVM (Support Vector Machine) model achieved the best performance, with a test accuracy of 73.03% and a ROC-AUC score of 0.8126. 
+- **Tools**: Python (Preprocessing, EDA, Feature Engineering, NLP, Sentiment Analysis)
